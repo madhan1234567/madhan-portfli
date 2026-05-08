@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website showcasing my work in Data Analysis, Business Analysis, and Digital Marketing.
 
-## 🚀 Live Portfolio
-🔗 https://madhan1234567.github.io/madhan-portfli/
+#
 
 ## 👨‍💻 About Me
 I am a B.Tech Computer Science & Business Systems graduate with experience in Data Analysis, Machine Learning, and Business Intelligence. I focus on building data-driven solutions and user-centric designs.
